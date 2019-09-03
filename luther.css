@@ -2,7 +2,13 @@ body {
   font-family: 'Play', sans-serif;
 }
 
-h1, h2, #img-caption {
+h1, h2 {
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+#img-caption {
   text-align: center;
 }
 
